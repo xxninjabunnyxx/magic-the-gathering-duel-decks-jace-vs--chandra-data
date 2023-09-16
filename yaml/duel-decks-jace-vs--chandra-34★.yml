@@ -1,0 +1,117 @@
+---
+object: card
+id: 27bed57a-027e-46c2-b87a-c52d18a357f9
+oracle_id: f4da7a43-e9d5-47ea-b2f0-3cf55a156f4a
+multiverse_ids:
+- 227445
+tcgplayer_id: 107020
+cardmarket_id: 244768
+name: Chandra Nalaar
+printed_name: チャンドラ・ナラー
+lang: ja
+released_at: '2008-11-07'
+uri: https://api.scryfall.com/cards/27bed57a-027e-46c2-b87a-c52d18a357f9
+scryfall_uri: https://scryfall.com/card/dd2/34%E2%98%85/ja/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%83%8A%E3%83%A9%E3%83%BC?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/7/27bed57a-027e-46c2-b87a-c52d18a357f9.jpg?1555971541
+  normal: https://cards.scryfall.io/normal/front/2/7/27bed57a-027e-46c2-b87a-c52d18a357f9.jpg?1555971541
+  large: https://cards.scryfall.io/large/front/2/7/27bed57a-027e-46c2-b87a-c52d18a357f9.jpg?1555971541
+  png: https://cards.scryfall.io/png/front/2/7/27bed57a-027e-46c2-b87a-c52d18a357f9.png?1555971541
+  art_crop: https://cards.scryfall.io/art_crop/front/2/7/27bed57a-027e-46c2-b87a-c52d18a357f9.jpg?1555971541
+  border_crop: https://cards.scryfall.io/border_crop/front/2/7/27bed57a-027e-46c2-b87a-c52d18a357f9.jpg?1555971541
+mana_cost: "{3}{R}{R}"
+cmc: 5.0
+type_line: Legendary Planeswalker — Chandra
+printed_type_line: プレインズウォーカー — チャンドラ
+oracle_text: |-
+  +1: Chandra Nalaar deals 1 damage to target player or planeswalker.
+  −X: Chandra Nalaar deals X damage to target creature.
+  −8: Chandra Nalaar deals 10 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.
+printed_text: |-
+  +1：プレイヤー１人を対象とする。チャンドラ・ナラーはそのプレイヤーに１点のダメージを与える。
+  -X：クリーチャー１体を対象とする。チャンドラ・ナラーはそれにＸ点のダメージを与える。
+  -8：プレイヤー１人を対象とする。チャンドラ・ナラーはそのプレイヤーとそのプレイヤーがコントロールする各クリーチャーにそれぞれ10点のダメージを与える。
+loyalty: '6'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7161cc1c-adbd-479c-9125-df4c40b0e3ad
+set: dd2
+set_name: 'Duel Decks: Jace vs. Chandra'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/7161cc1c-adbd-479c-9125-df4c40b0e3ad
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Add2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dd2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/27bed57a-027e-46c2-b87a-c52d18a357f9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af4da7a43-e9d5-47ea-b2f0-3cf55a156f4a&unique=prints
+collector_number: 34★
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yoshino Himori
+artist_ids:
+- 1294ec24-8fc5-437b-bf54-2a9cb6d41ac2
+illustration_id: d05a80fa-d9f7-42ea-a062-7e9e83b16b34
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 9721
+penny_rank: 1344
+prices:
+  usd: 
+  usd_foil: '34.17'
+  usd_etched: 
+  eur: 
+  eur_foil: '19.95'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227445
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chandra+Nalaar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chandra+Nalaar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chandra+Nalaar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/107020?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chandra+Nalaar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra+Nalaar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
